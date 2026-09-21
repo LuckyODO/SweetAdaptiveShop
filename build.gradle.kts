@@ -44,8 +44,8 @@ dependencies {
     compileOnly("su.nightexpress.excellenteconomy:ExcellentEconomy:2.8.0")
     compileOnly("me.clip:placeholderapi:2.12.2")
 
-    compileOnly("net.momirealms:craft-engine-core:26.8")
-    compileOnly("net.momirealms:craft-engine-bukkit:26.8")
+    compileOnly("net.momirealms:craft-engine-core:26.9.1")
+    compileOnly("net.momirealms:craft-engine-bukkit:26.9.1")
 
     compileOnly(files("libs/api-itemsadder-3.6.3-beta-14.jar"))
     compileOnly("io.lumine:Mythic-Dist:4.13.0")
