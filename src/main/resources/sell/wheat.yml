@@ -11,7 +11,7 @@ type: vanilla
 material: WHEAT
 #mythic: ExampleItem
 #itemsadder: '_iainternal:icon_arrow_chest'
-#craftenigne: 'example:item'
+#craftengine: 'example:item'
 
 # 展示名，可不输入，不输入则自动获取，仅 1.19.4 及以上可以自动获取原版物品名
 # display-name: '名字'

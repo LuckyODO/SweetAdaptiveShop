@@ -13,7 +13,7 @@ type: vanilla
 material: WHEAT
 #mythic: ExampleItem
 #itemsadder: '_iainternal:icon_arrow_chest'
-#craftenigne: 'example:item'
+#craftengine: 'example:item'
 # 药水和附魔的ID，1.13+ 使用原版ID，低版本使用以下链接指定的ID
 # 【药水】https://javadoc.mcio.dev/spigot/1.12.2/org/bukkit/potion/PotionEffectType.html
 # 【附魔】https://javadoc.mcio.dev/spigot/1.12.2/org/bukkit/enchantments/Enchantment.html
