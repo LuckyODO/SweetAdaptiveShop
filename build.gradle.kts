@@ -57,7 +57,7 @@ dependencies {
     base.library(base.depend.HikariCP)
     base.collectPluginHolders()
 
-    implementation("de.tr7zw:item-nbt-api:2.16.0")
+    implementation("de.tr7zw:item-nbt-api:2.16.1")
     implementation(base.depend.EvalEx)
     for (artifact in pluginBaseModules) {
         implementation(artifact)
